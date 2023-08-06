@@ -1,0 +1,21 @@
+1.0.1 Fix - acceept GS (guest  share flag) from Fidelio in order to set correct guest number onli for gurst with GS flag = Y. 
+
+1.0.2 Fix - can accespt room names with "-" and other symbols 
+
+1.0.3 Fix - Update correct roomID in RoomWS table during syncro process  
+
+1.0.4 Fix - eltour don't send  GuestID in GO 
+
+1.0.5 Fix - eltour send price in Lv. For now coins are not supported
+
+1.0.6 Test  Eltour Tested features in Strimon:
+	- GI Name and GuestId comes in GN field they will be processed be software
+	- GO Comes without GuestID
+	- PS PS are replaced by AS
+	- PA OK
+1.0.7 NF For ALH only! Add block code at place of Group Code in GI record. BlockID comes with A2 field.
+
+ 
+
+
+
